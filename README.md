@@ -16,9 +16,9 @@ The narrative version for a general audience is on Medium:
 
 ### Repository Structure
 01_regime_detection      — macro data processing and regime classification  
-02_cross_asset_analysis — asset normalization and shock response  
-03_sector_analysis      — sector divergence and relative performance  
-04_event_study          — event-centered analysis and zoomed windows  
+02_cross_asset_analysis  — asset normalization and shock response  
+03_sector_analysis       — sector divergence and relative performance  
+04_event_study           — event-centered analysis and zoomed windows  
 
 ### Data
 
@@ -33,9 +33,6 @@ Macro regime data: 2005 – 2026
 Asset-level analysis: 2021 – 2026
 Event study window: February 2026 shock
 
-Raw data is stored in /data/raw/ and remains unmodified.
+### Libraries Used
 
-### Dependencies
-
-Python 3.10+
 pandas · numpy · matplotlib · seaborn · yfinance · pandas-datareader · scipy
