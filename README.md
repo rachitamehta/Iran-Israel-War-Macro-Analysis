@@ -12,7 +12,7 @@ The full white-paper version of this research is published on the research portf
 https://carpal-collarbone-066.notion.site/From-Shock-to-Dispersion-Macro-Regime-Response-to-the-2026-Iran-Israel-Energy-Shock-3272f2f4ff37805b8f1aca53ac85fc07 
 
 The narrative version for a general audience is on Medium:
-
+https://medium.com/@rachita.mehta.1111/from-oil-shock-to-regime-shift-what-the-iran-israel-war-is-really-doing-to-the-markets-2d1c930afa75
 
 ### Repository Structure
 01_regime_detection      — macro data processing and regime classification  
